@@ -1,6 +1,9 @@
 hello from the other side
 hello from the other side
 hello from the other side
+<<<<<<< HEAD
 
 
 hello from the other side
+=======
+>>>>>>> bb5fea6 (hello 1)
